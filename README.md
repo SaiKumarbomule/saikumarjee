@@ -1,6 +1,6 @@
 # Hi, I'm Sai Kumar  👋
 
-**Software Engieer · Dallas, TX**
+**Software Engineer · Dallas, TX**
 
 I design and build scalable web applications — from frontend interfaces to backend APIs, cloud infrastructure, and DevOps pipelines. I care deeply about clean architecture, developer experience, and systems that actually hold up in production.
 
