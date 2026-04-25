@@ -9,10 +9,10 @@ I design and build scalable web applications — from frontend interfaces to bac
 ## What I work with
 
 **Frontend**
-`React` `TypeScript` `Next.js` `Tailwind CSS` `Java`
+`React` `TypeScript` `Next.js` `Tailwind CSS` 
 
 **Backend**
-`Node.js` `Express` `Python` `REST APIs` `GraphQL`
+`Node.js` `Express` `Python` `REST APIs` `GraphQL` `Java`
 
 **Cloud & DevOps**
 `AWS` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`
